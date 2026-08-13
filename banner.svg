@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="Richard — Data Scientist banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#1c2a44"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4cc38a"/>
+      <stop offset="50%" stop-color="#c8a45d"/>
+      <stop offset="100%" stop-color="#6ea8fe"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="240" fill="url(#bg)"/>
+  <circle cx="810" cy="45" r="130" fill="#ffffff" opacity="0.03"/>
+  <circle cx="110" cy="215" r="95" fill="#ffffff" opacity="0.03"/>
+  <text x="58" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="58" fill="#f2efe9" font-weight="bold">Richard</text>
+  <text x="62" y="152" font-family="'Segoe UI', Arial, sans-serif" font-size="21" fill="#c8a45d" letter-spacing="3">DATA SCIENTIST</text>
+  <text x="62" y="180" font-family="'Segoe UI', Arial, sans-serif" font-size="15" fill="#9aa3b2">Python · pandas · NumPy · scikit-learn · SQL · Jupyter</text>
+  <polyline points="60,205 150,178 250,190 350,150 450,164 550,122 650,132 750,92 844,104" fill="none" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="844" cy="104" r="5" fill="#c8a45d"/>
+</svg>
